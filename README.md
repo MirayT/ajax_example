@@ -1,3 +1,3 @@
 # ajax_example
 
-just run your http-serever in the root project diretory (outside /public)
+just run your http-server in the root project directory (outside /public)
